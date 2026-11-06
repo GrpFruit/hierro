@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Hierro.Api.Tests/Hierro.Api.Tests.csproj" />
+  <Project Path="Hierro.Api/Hierro.Api.csproj" />
+</Solution>
