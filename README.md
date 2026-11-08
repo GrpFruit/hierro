@@ -6,6 +6,8 @@ grown out of the **Home Gym Strength Split** artifact.
 - **frontend/**: Next.js 16 (App Router, TypeScript, React 19)
 - **backend/**: ASP.NET Core minimal API on .NET 10, EF Core + SQLite
 
+Where it's headed and why: [docs/ROADMAP.md](docs/ROADMAP.md).
+
 ## Run it
 
 Two terminals:
