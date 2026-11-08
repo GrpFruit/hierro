@@ -9,6 +9,10 @@ backups/
 exports/
 *.bak
 
+# ─── Licensed datasets: personal-use only, never publish (see docs/ROADMAP.md) ───
+data/
+*.xlsx
+
 # ─── Secrets & local configuration ───
 .env
 .env.*
